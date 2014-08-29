@@ -8,7 +8,7 @@
 # It is better to run kinit before this script
 
 # Run this from your work dir, not within this package
-asetup AtlasProduction,17.2.9.1,setup,here
+asetup 19.1.1.3,gcc48,here
 
 # For now, we will need SUSYTools and Mt2 and DGTriggerReweighting
 # Do we really still need all of these? Commenting them out for now
