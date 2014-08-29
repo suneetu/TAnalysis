@@ -21,6 +21,8 @@
 #include "Superflow/PhysicsTools.h"
 #include "Superflow/LeptonTruthDefinitions.h"
 
+#include "TAnalysis/TAnalysis.h"
+
 #include "Mt2/mt2_bisect.h"
 
 using namespace std;
